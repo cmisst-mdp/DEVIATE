@@ -16,6 +16,4 @@ The process of developing and implementing computer vision algorithms contains m
 steps and each step raise a host of interesting technological challenges and research questions. 
 Our program is organized around these steps:
 
-<p align="center">
-<img width="48%" src="/cmisst-mdp/DEVIATE/master/mdp.png" />
-<br>
+![mdp](mdp.png)
