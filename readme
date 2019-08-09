@@ -15,5 +15,4 @@ by other datasets could be used to increase accuracy and speed of algorithms.
 The process of developing and implementing computer vision algorithms contains many component 
 steps and each step raise a host of interesting technological challenges and research questions. 
 Our program is organized around these steps:
-
-![mdp](https://raw.githubusercontent.com/cmisst-mdp/DEVIATE/master/mdp.png)
+![](https://raw.githubusercontent.com/cmisst-mdp/DEVIATE/master/mdp.png)
